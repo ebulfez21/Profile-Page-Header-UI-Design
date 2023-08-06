@@ -1,0 +1,26 @@
+.icon {
+  width: 32px;
+  height: 32px;
+  display: flex;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: center;
+  background-size: contain;
+  align-items: center;
+  justify-content: center;
+  float: left;
+}
+
+.cat {
+  background-image: url(../icon/cat.svg);
+}
+.in {
+  background-image: url(../icon/in.svg);
+}
+
+.dog {
+  background-image: url(../icon/dog.svg);
+}
+.crystal {
+  background-image: url(../icon/crystal.svg);
+}
