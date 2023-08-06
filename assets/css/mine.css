@@ -80,13 +80,17 @@ body {
   width: 64px;
   height: 64px;
 }
+.info{
+    display: flex;
+    justify-content: space-between;
+}
 .organization-count {
   display: flex;
   justify-content: flex-start;
   flex-direction: column;
   gap: 10.5px;
 }
-.organization-count p {
+.info p {
   color: #13143c;
   font-size: 18px;
   font-style: normal;
